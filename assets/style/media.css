@@ -1,0 +1,17 @@
+@media (max-width:1024px){
+
+    .first-block, .fourth-block{
+        flex-direction: column;
+        gap: 30px;
+        width: 100%;
+    }
+
+    .second-header{
+        width: 100%;
+    }
+
+    .second-container, .third-container , .container, .cont, .conta{
+        width: 90%;
+        height: auto;
+    }
+}
